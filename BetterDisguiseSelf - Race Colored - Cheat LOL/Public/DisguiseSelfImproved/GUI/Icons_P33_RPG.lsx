@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+	<version major="4" minor="0" revision="4" build="602" />
+    <region id="TextureAtlasInfo">
+        <node id="root">
+            <children>
+                <node id="TextureAtlasIconSize">
+                    <attribute id="Height" type="int64" value="64"/>
+                    <attribute id="Width" type="int64" value="64"/>
+                </node>
+                <node id="TextureAtlasPath">
+                    <attribute id="Path" type="LSString" value="Assets/Textures/Icons/P33_RPGIcons.DDS"/>
+                    <attribute id="UUID" type="FixedString" value="6c8d47a2-a8a3-49b2-8263-494883e39b67"/> <!-- ID3 -->
+                </node>
+                <node id="TextureAtlasTextureSize">
+                    <attribute id="Height" type="int64" value="64"/>
+                    <attribute id="Width" type="int64" value="256"/>
+                </node>
+            </children>
+        </node>
+    </region>
+    <region id="IconUVList">
+        <node id="root">
+            <children>
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="P33_RPG"/> 1
+                    <attribute id="U1" type="float" value="0.0"/> Left side
+                    <attribute id="U2" type="float" value="0.25"/> Right side
+                    <attribute id="V1" type="float" value="0.0"/> Top side
+                    <attribute id="V2" type="float" value="1.0"/> Bottom side
+                </node>
+				<node id="IconUV">
+					<attribute id="MapKey" type="FixedString" value="P33_RPG1"/> 1
+					<attribute id="U1" type="float" value="0.25"/> Left side
+					<attribute id="U2" type="float" value="0.5"/> Right side
+					<attribute id="V1" type="float" value="0.0"/> Top side
+					<attribute id="V2" type="float" value="1.0"/> Bottom side
+				</node>
+				<node id="IconUV">
+					<attribute id="MapKey" type="FixedString" value="P33_RPG2"/> 1
+					<attribute id="U1" type="float" value="0.5"/> Left side
+					<attribute id="U2" type="float" value="0.75"/> Right side
+					<attribute id="V1" type="float" value="0.0"/> Top side
+					<attribute id="V2" type="float" value="1.0"/> Bottom side
+				</node>
+				<node id="IconUV">
+					<attribute id="MapKey" type="FixedString" value="P33_RPG3"/> 1
+					<attribute id="U1" type="float" value="0.75"/> Left side
+					<attribute id="U2" type="float" value="1.0"/> Right side
+					<attribute id="V1" type="float" value="0.0"/> Top side
+					<attribute id="V2" type="float" value="1.0"/> Bottom side
+				</node>
+			</children>
+        </node>
+    </region>
+</save>

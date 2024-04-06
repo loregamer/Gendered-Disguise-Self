@@ -1,0 +1,313 @@
+new treasuretable "TUT_Chest_Potions"
+CanMerge 1
+new subtable "1,1"
+object category "I_P33_Winchester",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_P33_Winchester_2",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_P33_Winchester_3",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_P33_Winchester_4",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_P33_Winchester_5",1,0,0,0,0,0,0,0
+
+
+new treasuretable "DEN_Weaponsmith_Trade"
+CanMerge 1
+new subtable "1,1"
+object category "I_P33_Winchester",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_P33_Winchester_2",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_P33_Winchester_3",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_P33_Winchester_4",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_P33_Winchester_5",1,0,0,0,0,0,0,0
+
+
+new treasuretable "PLA_ZhentarimTrader_Extra"
+CanMerge 1
+new subtable "1,1"
+object category "I_P33_Winchester",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_P33_Winchester_2",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_P33_Winchester_3",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_P33_Winchester_4",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_P33_Winchester_5",1,0,0,0,0,0,0,0
+
+
+new treasuretable "HAV_Weaponsmith_Trade"
+CanMerge 1
+new subtable "1,1"
+object category "I_P33_Winchester",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_P33_Winchester_2",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_P33_Winchester_3",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_P33_Winchester_4",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_P33_Winchester_5",1,0,0,0,0,0,0,0
+
+new treasuretable "LOW_Weaponsmith_Trade"
+CanMerge 1
+new subtable "1,1"
+object category "I_P33_Winchester",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_P33_Winchester_2",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_P33_Winchester_3",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_P33_Winchester_4",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_P33_Winchester_5",1,0,0,0,0,0,0,0
+
+new treasuretable "TUT_Chest_Potions"
+CanMerge 1
+new subtable "1,1"
+object category "I_P33_Winchester_cheat",1,0,0,0,0,0,0,0
+
+new treasuretable "TUT_Chest_Potions"
+CanMerge 1
+new subtable "1,1"
+object category "I_P33_Revolver",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_P33_Revolver",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_P33_Revolver2",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_P33_Revolver2",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_P33_Revolver3",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_P33_Revolver3",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_P33_Revolver4",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_P33_Revolver4",1,0,0,0,0,0,0,0
+
+
+
+
+
+new treasuretable "DEN_Weaponsmith_Trade"
+CanMerge 1
+new subtable "1,1"
+object category "I_P33_Revolver",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_P33_Revolver",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_P33_Revolver2",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_P33_Revolver2",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_P33_Revolver3",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_P33_Revolver3",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_P33_Revolver4",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_P33_Revolver4",1,0,0,0,0,0,0,0
+
+new treasuretable "PLA_ZhentarimTrader_Extra"
+CanMerge 1
+new subtable "1,1"
+object category "I_P33_Revolver",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_P33_Revolver",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_P33_Revolver2",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_P33_Revolver2",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_P33_Revolver3",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_P33_Revolver3",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_P33_Revolver4",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_P33_Revolver4",1,0,0,0,0,0,0,0
+
+
+new treasuretable "HAV_Weaponsmith_Trade"
+CanMerge 1
+new subtable "1,1"
+object category "I_P33_Revolver",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_P33_Revolver",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_P33_Revolver2",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_P33_Revolver2",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_P33_Revolver3",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_P33_Revolver3",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_P33_Revolver4",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_P33_Revolver4",1,0,0,0,0,0,0,0
+
+
+new treasuretable "LOW_Weaponsmith_Trade"
+CanMerge 1
+new subtable "1,1"
+object category "I_P33_Revolver",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_P33_Revolver",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_P33_Revolver2",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_P33_Revolver2",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_P33_Revolver3",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_P33_Revolver3",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_P33_Revolver4",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_P33_Revolver4",1,0,0,0,0,0,0,0
+
+new treasuretable "TUT_Chest_Potions"
+CanMerge 1
+new subtable "1,1"
+object category "I_P33_BM82",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_P33_BM82_2",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_P33_BM82_3",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_P33_BM82_4",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_P33_BM82_5",1,0,0,0,0,0,0,0
+
+
+new treasuretable "DEN_Weaponsmith_Trade"
+CanMerge 1
+new subtable "1,1"
+object category "I_P33_BM82",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_P33_BM82_2",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_P33_BM82_3",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_P33_BM82_4",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_P33_BM82_5",1,0,0,0,0,0,0,0
+
+
+new treasuretable "PLA_ZhentarimTrader_Extra"
+CanMerge 1
+new subtable "1,1"
+object category "I_P33_BM82",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_P33_BM82_2",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_P33_BM82_3",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_P33_BM82_4",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_P33_BM82_5",1,0,0,0,0,0,0,0
+
+
+new treasuretable "HAV_Weaponsmith_Trade"
+CanMerge 1
+new subtable "1,1"
+object category "I_P33_BM82",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_P33_BM82_2",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_P33_BM82_3",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_P33_BM82_4",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_P33_BM82_5",1,0,0,0,0,0,0,0
+
+new treasuretable "LOW_Weaponsmith_Trade"
+CanMerge 1
+new subtable "1,1"
+object category "I_P33_BM82",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_P33_BM82_2",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_P33_BM82_3",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_P33_BM82_4",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_P33_BM82_5",1,0,0,0,0,0,0,0
+
+new treasuretable "TUT_Chest_Potions"
+CanMerge 1
+new subtable "1,1"
+object category "I_P33_RPG",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_P33_RPG_2",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_P33_RPG_3",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_P33_RPG_4",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_P33_RPG_5",1,0,0,0,0,0,0,0
+
+
+new treasuretable "DEN_Weaponsmith_Trade"
+CanMerge 1
+new subtable "1,1"
+object category "I_P33_RPG",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_P33_RPG_2",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_P33_RPG_3",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_P33_RPG_4",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_P33_RPG_5",1,0,0,0,0,0,0,0
+
+
+
+new treasuretable "PLA_ZhentarimTrader_Extra"
+CanMerge 1
+new subtable "1,1"
+object category "I_P33_RPG",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_P33_RPG_2",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_P33_RPG_3",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_P33_RPG_4",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_P33_RPG_5",1,0,0,0,0,0,0,0
+
+
+
+new treasuretable "HAV_Weaponsmith_Trade"
+CanMerge 1
+new subtable "1,1"
+object category "I_P33_RPG",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_P33_RPG_2",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_P33_RPG_3",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_P33_RPG_4",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_P33_RPG_5",1,0,0,0,0,0,0,0
+
+
+new treasuretable "LOW_Weaponsmith_Trade"
+CanMerge 1
+new subtable "1,1"
+object category "I_P33_RPG",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_P33_RPG_2",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_P33_RPG_3",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_P33_RPG_4",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_P33_RPG_5",1,0,0,0,0,0,0,0
+
